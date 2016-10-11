@@ -36,4 +36,5 @@ With four subtypes in each:
 Use transparency so the text looks good regardless of background color.
 
 http://blog.invisionapp.com/start-sketch-design/
+http://blog.invisionapp.com/typography-tips/
 
