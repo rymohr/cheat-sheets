@@ -1,7 +1,4 @@
-https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.n0ex09j7n
-https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96#.hxuyiogb8
 
-http://learnui.design/
 
 # Color
 
@@ -35,6 +32,10 @@ With four subtypes in each:
 
 Use transparency so the text looks good regardless of background color.
 
-http://blog.invisionapp.com/start-sketch-design/
-http://blog.invisionapp.com/typography-tips/
+Further reading:
+- http://learnui.design/
+- https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.n0ex09j7n
+- https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96#.hxuyiogb8
+- http://blog.invisionapp.com/start-sketch-design/
+- http://blog.invisionapp.com/typography-tips/
 
